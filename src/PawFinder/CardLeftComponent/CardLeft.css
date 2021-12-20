@@ -1,0 +1,103 @@
+/* CARD LEFT CSS START */
+
+/* .card--left {
+    border-right: 1px solid #eee;
+} */
+
+.left--card {
+    padding-left: 7rem;
+}
+
+.fa-arrow-left {
+    position: absolute;
+    top: 95px;
+    left: 8rem;
+    color: #8792a2;
+    width: 16px;
+    height: 14.6px;
+}
+
+h2.back--powdur {
+    font-size: 14px;
+    width: 47px;
+    height: 40px;
+    font-weight: 600;
+    font-family: 'SF Pro Display';
+    padding: 10px 0;
+    color: #1a1f36;
+    line-height: 20px;
+}
+
+h2.pure {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'SF Pro Display';
+    color: #697386;
+    margin-bottom: 5px;
+}
+
+h2.cost {
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'SF Pro Display';
+    line-height: 44px;
+    color: #1a1f36;
+}
+
+.money--sign {
+    margin-right: 10px;
+}
+
+
+.powdur--img {
+    width: 270px;
+    height: 260px;
+    border-radius: 4px;
+    margin: 25px 0 60px 0;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    width: 260px;
+}
+
+.footer--links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer article p {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'SF Pro Display';
+    color: #8792a2;
+    border-right: 1px solid #8792a2;
+    padding-right: 30px;
+}
+
+footer article a {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'SF Pro Display';
+    padding: 0 10px;
+    color: #8792a2;
+}
+
+footer article span {
+    color: #8792a2;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+a:hover {
+    color: #21262c;
+}
+
+i:hover {
+    color: #21262c;
+}
+
+
+/* CARD LEFT CSS END */
